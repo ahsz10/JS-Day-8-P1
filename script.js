@@ -1,3 +1,5 @@
+// Lab 8 part 1 Todo List and Local storage
+
 //selectors
 const todoInput= document.querySelector('.todo-input')
 const todoBtn= document.querySelector('.todo-button')
